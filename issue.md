@@ -12,7 +12,9 @@
 
 ​	Octree is a kind of spatial partitioning on 3D dimension with each node representing a cubic space. According to the 3D coordinate system, we can divide the space into 8 Octants. For each octants as a node, it describes a cubic bounding box which encapsulates many points of the database of point cloud file. For root node, it describes a cubic bounding box which encapsulates all points in the point cloud file database. Then for each child node of certain parent node, it respectively represents one part cubic box of the parent cubic box with parent box division of eight equal parts.
 
+![image](https://github.com/LIKP0/Octree/blob/main/other_src/octree.png)
 
+The picture comes from Wikipedia.(https://zh.wikipedia.org/wiki/%E5%85%AB%E5%8F%89%E6%A0%91)
 
 #### Point cloud Compression
 
