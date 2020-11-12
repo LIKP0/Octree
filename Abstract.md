@@ -4,7 +4,7 @@
 
 ### Why we do it?
 
-​	OPENCV is going to have its [3D module](https://github.com/opencv/opencv/wiki/OE-33.-3D-Module
+​	OpenCV is going to have its [3D module](https://github.com/opencv/opencv/wiki/OE-33.-3D-Module
 ) and we want to do some contributions. The task is meaningful because Octree is a basic structure used in many aspects and it is very powerful. It enables spatial partitioning, downsampling and search operations on the point data set.
 
 ### A brief introduction of Octree and related algorithms
