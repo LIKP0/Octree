@@ -4,7 +4,8 @@
 
 ### Why we do it?
 
-​	It's heard that OpenCV is going to have its 3D part in the future version and we want to do some contributions. The task is meaningful because Octree is a basic structure used in many aspects and it is very powerful. It enables spatial partitioning, downsampling and search operations on the point data set.
+​	OPENCV is going to have its [3D module](https://github.com/opencv/opencv/wiki/OE-33.-3D-Module
+) and we want to do some contributions. The task is meaningful because Octree is a basic structure used in many aspects and it is very powerful. It enables spatial partitioning, downsampling and search operations on the point data set.
 
 ### A brief introduction of Octree and related algorithms
 
@@ -42,8 +43,9 @@ Maintain the priority queue of distance between each point in each node and the 
 
 ### About us
 
-​	Our team has three members: ZhiYue Wang@https://github.com/wangihzyue
-                              JiaLin Li@https://github.com/LIKP0
-                              HaoTian Gao@https://github.com/Jimmy-7664
+​	Our team has three members: [ZhiYue Wang](https://github.com/wangihzyue)
+                              [JiaLin Li](https://github.com/LIKP0)
+                              [HaoTian Gao](https://github.com/Jimmy-7664)
                               under the guide of Professor YU@. 
-  And we should give our especial thanks to **HUAWEI** for external support. We are senior students of Southern university of science and technology. This program is a big project for us in a course called **Innovative practice** lasts for one year and a half. In honest, it is very difficult for us to develop such a huge project without any basic knowledge in 3D field but we will try our best. Finally, **we hope for your support sincerely, come and discuss with us below this issue!**
+  And we should give our especial thanks to [JinHengZhang](https://github.com/JinhengZhang) for external support. 
+  We are senior students of Southern university of science and technology.In honest, it is very difficult for us to develop such a huge project without any basic knowledge in 3D field but we will try our best. Finally, **we hope for your support sincerely, come and discuss with us below this issue!**
